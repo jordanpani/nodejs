@@ -1,0 +1,12 @@
+{
+  "name": "httpserver",
+  "version": "0.0.0",
+  "description": "Generated with Eclipse npm Tools",
+  "main": "server2.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1",
+    "run": "node server2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
